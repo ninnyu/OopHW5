@@ -1,0 +1,12 @@
+Enter a radius: 
+Radius = 5.000
+Circle's area = 78.540
+Quadrant's area = 19.635
+Square's area = 25.000
+Ratio of quadrant's area to square's area = 0.785
+Calculated Pi using the quadrant's area and the square's area = 3.1415926536
+
+Number of points in circle = 3141616053
+Number of points in square = 4000000000
+Ratio of points in circle to points in square = 0.785
+Calculated Pi using points in circle and points in square = 3.1416160530
